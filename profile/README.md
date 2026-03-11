@@ -1,4 +1,4 @@
-![z-base Banner](https://img.shields.io/badge/z--base-digital--sovereignty--enabling%20pwa%20architecture-000000?style=for-the-badge)
+![sovereignbase Banner](https://img.shields.io/badge/Sovereign-Base-digital--sovereignty--enabling%20pwa%20architecture-000000?style=for-the-badge)
 
 ## A coordination layer for interoperable user-sovereign resources
 
