@@ -14,10 +14,10 @@ It limits the **scope** and **value** of surveillance.
 **Read more**
 - **[What Makes Sovereignbase Unique](https://github.com/sovereignbase/z-base/blob/main/docs/WHY_Z-BASE_IS_DIFFERENT.md)**
 - **[Digital-Sovereignty-Enabling Architecture Overview](https://www.jortsupetterson.workers.dev/)**
-- **[Rationalizing Why Digital-Sovereignty-Enabling Architecture Needs This Structure](https://github.com/z-base/z-base/blob/main/docs/neutral_diagram/rationale.md)**
+- **[Rationalizing Why Digital-Sovereignty-Enabling Architecture Needs This Structure](https://github.com/sovereignbase/z-base/blob/main/docs/neutral_diagram/rationale.md)**
 - **[Long and Awkward Walkthrough on Digital-Sovereignty-Enabling System Architecture](https://www.youtube.com/watch?v=GIFVetIC8X0)**
 
-<img src="https://github.com/z-base/z-base/blob/main/docs/TOP_LEVEL_LABELING.png" alt="Digital-Sovereignty-Enabling Architecture top-level labels" />
+<img src="https://github.com/sovereignbase/z-base/blob/main/docs/TOP_LEVEL_LABELING.png" alt="Digital-Sovereignty-Enabling Architecture top-level labels" />
 
 **SCALABILITY NOTE:** The diagram scales both horizontally and vertically.  
 Horizontally: add as many **Service Providers** as needed.  
@@ -25,7 +25,7 @@ Vertically: add as many **Service Clients** as needed.
 
 ---
 
-## What z-base is building
+## What Sovereignbase is building
 
 ### 1) Interoperable resources (not “apps”)
 
@@ -53,7 +53,7 @@ It’s routing, relays, indexing, hosting, availability, backups, and coordinati
 
 ### 3) Private *and* public resources
 
-z-base is designed to support both:
+Sovereignbase is designed to support both:
 - **private resources** (E2EE, local-first, selective disclosure, peer verification)
 - **public resources** (publishable, cacheable, replicable, indexable—without turning platforms into identity owners)
 
@@ -72,15 +72,15 @@ Delegation without dependence.
 
 ---
 
-## What z-base refuses to be
+## What Sovereignbase refuses to be
 
-z-base does not:
+Sovereignbase does not:
 - own your identity
 - define your reality
 - grant authority for your intentions
 - require that a provider is “trusted” to be correct
 
-z-base does:
+Sovereignbase does:
 - host resources you control (as a service, not as a throne)
 - store and relay encrypted envelopes without needing plaintext
 - enable peers to verify claims locally
@@ -129,13 +129,13 @@ Doesn’t fit (by itself):
 - systems that require third-party plaintext by default
 - purely public discovery/search as the primary feature (use a purpose-built index)
 
-z-base is a foundation. You can add specialized services without re-centralizing authority.
+Sovereignbase is a foundation. You can add specialized services without re-centralizing authority.
 
 ---
 
 ## Building blocks
 
-z-base is being built from the bottom up as two layers that evolve together:
+Sovereignbase is being built from the bottom up as two layers that evolve together:
 
 ### 1) JS runtime-agnostic libraries + implementation-agnostic specs
 We start by writing **JS runtime-agnostic (but ESM-format-specific) JS/TS libraries** alongside **implementation-agnostic specifications**.
@@ -164,7 +164,7 @@ The priority is correctness of meaning and verification first; the hosting subst
 
 ## The invitation
 
-z-base is not trying to build *the* app.  
+Sovereignbase is not trying to build *the* app.  
 It’s trying to make it obvious how to build **many** apps—viewers, editors, platforms, and services—around shared resources without reintroducing captivity.
 
 If the web is going to serve people first, it needs to serve developers first: enabling competition on UX/UI **without** becoming data custodians, through simple, familiar APIs.
