@@ -1,34 +1,18 @@
 ![sovereignbase Banner](https://img.shields.io/badge/Sovereignbase-digital--sovereignty--enabling%20pwa%20architecture-000000?style=for-the-badge)
 
-## A coordination layer for interoperable user-sovereign resources
-
-A decentralized web is not achieved by changing how we store or move bytes.  
-It is achieved by **standardizing semantics** and changing **where authority is allowed to exist**.
-
-DNS, HTTPS, CDNs, and transports are fine.  
-They move encrypted blobs and locate endpoints.  
-They do not define meaning, ownership, or truth.
-
-Web2’s failure is that **identity, data, validation, and policy are bound to the same service boundary**.  
-Who you are, what exists, and what is true are decided by whoever runs the server.
-
-z-base is an attempt to invert that.
-
----
-
 ## The idea in one sentence
 
 **Treat every user-agent as an Actor in a distributed system (a cryptographic authority over its own state), supported by servers as Base Stations (standardized resource support servers run by service providers, used for storage, relay, backup, and cross-origin coordination), and let state emerge from conflict-free replicated verifiable claims over interoperable resources—independent of network location or service operators.**
 
 ---
 
-<img src="https://github.com/z-base/z-base/blob/main/docs/neutral_diagram/digital-sovereignty-enabling_architecture_diagram.drawio.png" alt="Digital-Sovereignty-Enabling Architecture Diagram" />
+<img src="https://github.com/sovereignbase/z-base/blob/main/docs/neutral_diagram/digital-sovereignty-enabling_architecture_diagram.drawio.png" alt="Digital-Sovereignty-Enabling Architecture Diagram" />
 
 **PRIVACY NOTE:** This architecture does not attempt to eliminate surveillance.  
 It limits the **scope** and **value** of surveillance.
 
 **Read more**
-- **[What Makes z-base Unique](https://github.com/z-base/z-base/blob/main/docs/WHY_Z-BASE_IS_DIFFERENT.md)**
+- **[What Makes Sovereignbase Unique](https://github.com/sovereignbase/z-base/blob/main/docs/WHY_Z-BASE_IS_DIFFERENT.md)**
 - **[Digital-Sovereignty-Enabling Architecture Overview](https://www.jortsupetterson.workers.dev/)**
 - **[Rationalizing Why Digital-Sovereignty-Enabling Architecture Needs This Structure](https://github.com/z-base/z-base/blob/main/docs/neutral_diagram/rationale.md)**
 - **[Long and Awkward Walkthrough on Digital-Sovereignty-Enabling System Architecture](https://www.youtube.com/watch?v=GIFVetIC8X0)**
@@ -45,7 +29,7 @@ Vertically: add as many **Service Clients** as needed.
 
 ### 1) Interoperable resources (not “apps”)
 
-z-base is about **portable resources**: media, documents, identities, credentials, objects—and anything else that can be expressed as a shared, verifiable model.
+Sovereignbase is about **portable resources**: media, documents, identities, credentials, objects—and anything else that can be expressed as a shared, verifiable model.
 
 The point is not “a decentralized app”.  
 The point is **a decentralized _resource format + semantics_**, so many competing clients can render, edit, and verify the same thing.
