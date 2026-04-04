@@ -1,0 +1,18 @@
+Development — €0
+
+1 GB storage
+1,000 sessions
+
+Growth — €8 / month
+
+100 GB storage
+100,000 sessions
+Additional storage: €0.024 / GB-month
+Additional sessions: €0.024 / 1,000 sessions
+
+Production — €24 / month
+
+1 TB storage
+1,000,000 sessions
+Additional storage: €0.024 / GB-month
+Additional sessions: €0.024 / 1,000 sessions
