@@ -178,7 +178,7 @@ The goal is to keep the ecosystem fully open and usable in both open-source and 
 ## The invitation
 
 Sovereignbase is not trying to build *the* app.  
-It’s trying to make it obvious how to build **many** apps—viewers, editors, platforms, and services—around shared resources without reintroducing captivity.
+It’s trying to make it obvious how to build **many** apps, viewers, editors, platforms, and services, around shared resources without reintroducing captivity.
 
 If the web is going to serve people first, it needs to serve developers first: enabling competition on UX/UI **without** becoming data custodians, through simple, familiar APIs.
 
