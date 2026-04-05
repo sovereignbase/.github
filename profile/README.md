@@ -27,7 +27,7 @@ Vertically: add as many **Service Clients** as needed.
 
 ### 1) Interoperable resources (not “apps”)
 
-Sovereignbase is about **portable resources**: media, documents, identities, credentials, objects—and anything else that can be expressed as a shared, verifiable model.
+Sovereignbase is about **portable resources**: media, documents, identities, credentials, objects, and anything else that can be expressed as a shared, verifiable model.
 
 The point is not “a decentralized app”.  
 The point is **a decentralized _resource format + semantics_**, so many competing clients can render, edit, and verify the same thing.
