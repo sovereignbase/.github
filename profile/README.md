@@ -138,7 +138,7 @@ Sovereignbase is a foundation. You can add specialized services without re-centr
 Sovereignbase is being built from the bottom up as two layers that evolve together:
 
 ### 1) JS runtime-agnostic libraries + implementation-agnostic specs
-We start by writing **JS runtime-agnostic (but ESM-format-specific) JS/TS libraries** alongside **implementation-agnostic specifications**.
+We start by writing **JS runtime-agnostic JS/TS libraries** alongside **implementation-agnostic specifications**.
 
 The specs focus on execution-level structure:
 - data ontologies and semantics
