@@ -55,7 +55,7 @@ It’s routing, relays, indexing, hosting, availability, backups, and coordinati
 
 Sovereignbase is designed to support both:
 - **private resources** (E2EE, local-first, selective disclosure, peer verification)
-- **public resources** (publishable, cacheable, replicable, indexable—without turning platforms into identity owners)
+- **public resources** (publishable, cacheable, replicable, indexable, without turning platforms into identity owners)
 
 ### 4) Automation as a service model (not a custody model)
 
