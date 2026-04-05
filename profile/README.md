@@ -1,7 +1,5 @@
 ![sovereignbase Banner](https://img.shields.io/badge/Sovereignbase-digital--sovereignty--enabling%20pwa%20architecture-000000?style=for-the-badge)
 
-## The idea in one sentence
-
 **Treat every user-agent as an Actor in a distributed system (a cryptographic authority over its own state), supported by servers as Base Stations (standardized resource support servers run by service providers, used for storage, relay, backup, and cross-origin coordination), and let state emerge from convergent replicated verifiable data over interoperable resources, independent of network location or service operators.**
 
 ---
