@@ -173,6 +173,8 @@ This includes:
 
 The goal is to keep the ecosystem fully open and usable in both open-source and commercial environments.
 
+Feel free to copy, fork, rewrite, rebrand... anything!
+
 ---
 
 ## The invitation
