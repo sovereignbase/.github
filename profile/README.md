@@ -4,18 +4,18 @@
 
 ---
 
-<img src="https://github.com/sovereignbase/z-base/blob/main/docs/neutral_diagram/digital-sovereignty-enabling_architecture_diagram.drawio.png" alt="Digital-Sovereignty-Enabling Architecture Diagram" />
+<img src="https://github.com/sovereignbase/misc/blob/main/docs/neutral_diagram/digital-sovereignty-enabling_architecture_diagram.drawio.png" alt="Digital-Sovereignty-Enabling Architecture Diagram" />
 
 **PRIVACY NOTE:** This architecture does not attempt to eliminate surveillance.  
 It limits the **scope** and **value** of surveillance.
 
 **Read more**
-- **[What Makes Sovereignbase Unique](https://github.com/sovereignbase/z-base/blob/main/docs/WHY_SOVEREIGNBASE_IS_DIFFERENT.md)**
+- **[What Makes Sovereignbase Unique](https://github.com/sovereignbase/misc/blob/main/docs/WHY_SOVEREIGNBASE_IS_DIFFERENT.md)**
 - **[Digital-Sovereignty-Enabling Architecture Overview](https://www.jortsupetterson.workers.dev/)**
-- **[Rationalizing Why Digital-Sovereignty-Enabling Architecture Needs This Structure](https://github.com/sovereignbase/z-base/blob/main/docs/neutral_diagram/rationale.md)**
+- **[Rationalizing Why Digital-Sovereignty-Enabling Architecture Needs This Structure](https://github.com/sovereignbase/misc/blob/main/docs/neutral_diagram/rationale.md)**
 - **[Long and Awkward Walkthrough on Digital-Sovereignty-Enabling System Architecture](https://www.youtube.com/watch?v=GIFVetIC8X0)**
 
-<img src="https://github.com/sovereignbase/z-base/blob/main/docs/TOP_LEVEL_LABELING.png" alt="Digital-Sovereignty-Enabling Architecture top-level labels" />
+<img src="https://github.com/sovereignbase/misc/blob/main/docs/TOP_LEVEL_LABELING.png" alt="Digital-Sovereignty-Enabling Architecture top-level labels" />
 
 **SCALABILITY NOTE:** The diagram scales both horizontally and vertically.  
 Horizontally: add as many **Service Providers** as needed.  
