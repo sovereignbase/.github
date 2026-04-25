@@ -2,6 +2,8 @@
 
 **Treat every user-agent as an Actor in a distributed system (a cryptographic authority over its own state), supported by servers as Base Stations (standardized resource support servers run by service providers, used for storage, relay, backup, and cross-origin coordination), and let state emerge from convergent replicated verifiable data over interoperable schemas, independent of network location or service operators.**
 
+From the application’s perspective, Sovereignbase is databaseless and serverless: there is no app-owned canonical database and no app-owned backend authority. Users’ Actors own their state, while Base Stations only provide storage, relay, backup, and synchronization support.
+
 ---
 
 <img src="https://github.com/sovereignbase/misc/blob/main/docs/neutral_diagram/digital-sovereignty-enabling_architecture_diagram.drawio.png" alt="Digital-Sovereignty-Enabling Architecture Diagram" />
