@@ -1,4 +1,4 @@
-![Sovereignbase Banner](https://img.shields.io/badge/Sovereignbase-user--owned%20backend%20architecture-000000?style=for-the-badge)
+![Sovereignbase Banner](https://img.shields.io/badge/Sovereignbase-user--sovereign%20backend%20architecture-000000?style=for-the-badge)
 
 # Sovereignbase
 
