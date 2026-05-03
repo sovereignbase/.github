@@ -2,7 +2,7 @@
 
 # Sovereignbase
 
-**A backend architecture for building applications without becoming the custodian or canonical authority over user data.**
+**A backend for building applications without becoming the custodian or canonical authority over user data.**
 
 Sovereignbase treats every user-agent as an **Actor**: a cryptographic participant that owns and validates its own state.
 
