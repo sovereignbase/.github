@@ -74,12 +74,14 @@ The current work focuses on small, runtime-agnostic JS/TS packages and implement
 
 ### Data and replication
 
-- **Convergent Replicated List**
 - **Convergent Replicated Map**
 - **Convergent Replicated Set**
+- **Convergent Replicated List**
 - **Convergent Replicated Text**
-- **Schema CRDT**
+- **Convergent Replicated Struct**
 - **Convergent Replicated Resource**
+
+- **Schema CRDT**
 
 These form the replicated state layer for portable, convergent, application-usable resources.
 
