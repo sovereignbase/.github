@@ -223,7 +223,7 @@ The architecture is intended to outlive any specific hosting provider.
 
 The architecture scales horizontally by adding service providers.
 
-It scales vertically by adding service clients, Actors, resources, relays, backups, indexes, and specialized services.
+It scales vertically by adding service clients.
 
 The model does not depend on one provider becoming the universal authority.
 
