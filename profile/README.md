@@ -1,8 +1,7 @@
 ![Sovereignbase Banner](https://img.shields.io/badge/Sovereignbase-user--sovereign%20backend%20architecture-000000?style=for-the-badge)
 
-# Sovereignbase
 
-**A backend for building applications without becoming the custodian or canonical authority over user data.**
+**Sovereignbase lets developers build normal web applications without becoming responsible for owning, operating, or controlling their users’ data backend.**
 
 Sovereignbase treats every user-agent as an **Actor**: a cryptographic participant that owns and validates its own state.
 
