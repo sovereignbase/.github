@@ -4,6 +4,10 @@
 
 ---
 
+## Core Model
+
+Sovereignbase has 3 core components.
+
 ### Actor
 
 A cryptographic user-agent.
