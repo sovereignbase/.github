@@ -46,7 +46,6 @@ It is a way to build applications where the developer does not need to become th
 
 Instead of building an app-owned canonical backend database, you build against user-owned resources:
 
-- no app-owned canonical user database
 - no hidden platform authority over user state
 - no forced data custody as the default architecture
 - no separate application-side schema as the only source of truth
