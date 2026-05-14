@@ -161,8 +161,6 @@ It does not make provider shutdown an existential event for the user.
 A provider may host, relay, back up, and coordinate.  
 A user may leave, migrate, replicate, or use another provider.
 
-Those two facts are meant to coexist.
-
 ---
 
 ## Why this matters
@@ -183,7 +181,7 @@ The project is currently in recursive specification and implementation:
 specify -> implement -> test -> correct -> specify
 ```
 
-The immediate priority is correctness of meaning, deterministic behavior, portable resource structure, and small usable libraries.
+The immediate priority is deterministic behavior, portable resource structure, and small usable libraries.
 
 The initial implementation targets modern JavaScript environments: browsers, Node, Deno, Bun, workers, and edge runtimes.
 
@@ -198,15 +196,3 @@ Everything produced by the Sovereignbase project is released under the **Apache 
 This includes code, packages, tooling, specifications, and images.
 
 The intent is to keep the ecosystem usable in open-source and commercial environments.
-
----
-
-## Invitation
-
-Sovereignbase is not trying to build one app.
-
-It is trying to make it practical to build many apps, clients, viewers, editors, platforms, services, and automations around shared user-owned resources.
-
-Applications should compete on product quality, UX, reliability, and service.
-
-Not on captivity.
