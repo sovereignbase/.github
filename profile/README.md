@@ -6,7 +6,7 @@
 
 ## Core Model
 
-Sovereignbase has 3 core components.
+ANBS architecture has 3 core components.
 
 ### Actor
 
