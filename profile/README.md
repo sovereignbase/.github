@@ -2,7 +2,7 @@
 
 **Sovereignbase lets developers build normal web applications without becoming responsible for owning, operating, or controlling their users’ data backend.**
 
-Sovereignbase treats every user-agent as an **Actor**: a cryptographic participant that owns and validates its own state.
+Sovereignbase treats every user-agent as an **Actor** in a distributed system: a cryptographic participant that owns and validates its own state.
 
 Servers are **Base Stations**: service infrastructure for storage, relay, backup, synchronization, discovery, and cross-origin coordination. They support resources, but they do not become the source of truth.
 
