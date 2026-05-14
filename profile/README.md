@@ -32,7 +32,7 @@ The Actor is authority.
 
 ### Convergent Replicated Resource
 
-A portable resource whose state can be replicated, synchronized, verified, and rendered by multiple clients.
+A portable resource whose state can be replicated, synchronized, validated, and rendered by multiple clients.
 
 A resource may be private, public, encrypted, publishable, cached, indexed, backed up, or shared. The important rule is that the resource remains portable and independently verifiable.
 
