@@ -1,5 +1,6 @@
 ![Sovereignbase Banner](https://img.shields.io/badge/Sovereignbase-user--sovereign%20backend%20as%20a%20service-000000?style=for-the-badge)
 
+# Sovereignbase
 
 **Sovereignbase lets developers build normal web applications without becoming responsible for owning, operating, or controlling their users’ data backend.**
 
@@ -7,13 +8,7 @@ Sovereignbase treats every user-agent as an **Actor**: a cryptographic participa
 
 Servers are **Base Stations**: service infrastructure for storage, relay, backup, synchronization, discovery, and cross-origin coordination. They support resources, but they do not become the source of truth.
 
-The goal is simple:
-
-**Build real applications without forcing developers to own the user’s identity, database, private state, or long-term data liability.**
-
 ---
-
-<img src="https://github.com/sovereignbase/misc/blob/main/docs/neutral_diagram/digital-sovereignty-enabling_architecture_diagram.drawio.png" alt="Digital-Sovereignty-Enabling Architecture Diagram" />
 
 ## Core model
 
@@ -73,34 +68,33 @@ The current work focuses on small, runtime-agnostic JS/TS packages and implement
 
 ### Data and replication
 
-- **Convergent Replicated Map**
-- **Convergent Replicated Set**
-- **Convergent Replicated List**
-- **Convergent Replicated Text**
-- **Convergent Replicated Struct**
-- **Convergent Replicated Resource**
-
-- **Schema CRDT**
+- **[Convergent Replicated Map](https://github.com/sovereignbase/convergent-replicated-map)**
+- **[Convergent Replicated Set](https://github.com/sovereignbase/convergent-replicated-set)**
+- **[Convergent Replicated List](https://github.com/sovereignbase/convergent-replicated-list)**
+- **[Convergent Replicated Text](https://github.com/sovereignbase/convergent-replicated-text)**
+- **[Convergent Replicated Struct](https://github.com/sovereignbase/convergent-replicated-struct)**
+- **[Convergent Replicated Resource](https://github.com/sovereignbase/convergent-replicated-resource)**
+- **[Schema CRDT](https://github.com/sovereignbase/schema-crdt)**
 
 These form the replicated state layer for portable, convergent, application-usable resources.
 
 ### Cryptography and identifiers
 
-- **cryptosuite**
-- **hardware-bound**
-- **bytecodec**
-- **urn-anbs**
+- **[cryptosuite](https://github.com/sovereignbase/cryptosuite)**
+- **[hardware-bound](https://github.com/sovereignbase/hardware-bound)**
+- **[bytecodec](https://github.com/sovereignbase/bytecodec)**
+- **[urn-anbs](https://github.com/sovereignbase/urn-anbs)**
 
 These provide byte handling, cryptographic identifiers, encryption, signatures, key agreement, hardware-bound local bootstrapping, and resource naming primitives.
 
 ### Browser and coordination primitives
 
-- **peer2peer**
-- **offline-kv-store**
-- **qr**
-- **base-station**
+- **[peer2peer](https://github.com/sovereignbase/peer2peer)**
+- **[offline-kv-store](https://github.com/sovereignbase/offline-kv-store)**
+- **[qr](https://github.com/sovereignbase/qr)**
+- **[base-station](https://github.com/sovereignbase/base-station)**
 
-These support local-first state, WebRTC-style peer exchange, QR-based bootstrapping, offline persistence, and service-assisted coordination.
+These support local-first state, WebRTC peer exchange, QR-based encoding, offline persistence, and service-assisted coordination.
 
 ---
 
@@ -128,7 +122,7 @@ Search engines, analytics systems, public indexes, AI workers, payment processor
 
 ## Privacy note
 
-This architecture does not claim to eliminate surveillance.
+This architecture does not try to eliminate surveillance.
 
 It reduces the scope and value of surveillance by avoiding unnecessary plaintext custody, central identity ownership, and provider-controlled canonical state.
 
@@ -180,13 +174,6 @@ Most applications make the developer or company the unavoidable custodian of use
 
 That creates operational burden, compliance risk, breach risk, migration pain, and user lock-in.
 
-Sovereignbase takes a different position:
-
-**Verify authority. Validate policy. Then accept state.**
-
-The network can deliver claims.  
-Actors decide whether those claims are valid.
-
 ---
 
 ## Current status
@@ -197,34 +184,13 @@ The project is currently in recursive specification and implementation:
 
 ```text
 specify -> implement -> test -> correct -> specify
-````
+```
 
 The immediate priority is correctness of meaning, deterministic behavior, portable resource structure, and small usable libraries.
 
 The initial implementation targets modern JavaScript environments: browsers, Node, Deno, Bun, workers, and edge runtimes.
 
 The architecture is intended to outlive any specific hosting provider.
-
----
-
-## Read more
-
-* **[What Makes Sovereignbase Unique](https://github.com/sovereignbase/misc/blob/main/docs/WHY_SOVEREIGNBASE_IS_DIFFERENT.md)**
-* **[Digital-Sovereignty-Enabling Architecture Overview](https://www.jortsupetterson.workers.dev/)**
-* **[Rationalizing Why Digital-Sovereignty-Enabling Architecture Needs This Structure](https://github.com/sovereignbase/misc/blob/main/docs/neutral_diagram/rationale.md)**
-* **[Long and Awkward Walkthrough on Digital-Sovereignty-Enabling System Architecture](https://www.youtube.com/watch?v=GIFVetIC8X0)**
-
----
-
-<img src="https://github.com/sovereignbase/misc/blob/main/docs/TOP_LEVEL_LABELING.png" alt="Digital-Sovereignty-Enabling Architecture top-level labels" />
-
-## Scalability note
-
-The architecture scales horizontally by adding service providers.
-
-It scales vertically by adding service clients.
-
-The model does not depend on one provider becoming the universal authority.
 
 ---
 
