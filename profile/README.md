@@ -8,10 +8,6 @@ Servers are **Base Stations**: infrastructure for storage, relay, backup, synchr
 
 ---
 
-## Core model
-
-Sovereignbase is built around three primitives:
-
 ### Actor
 
 A cryptographic user-agent.
