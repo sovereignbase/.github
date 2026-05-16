@@ -75,6 +75,7 @@ These form the replicated state layer for portable, convergent, application-usab
 
 - **[cryptosuite](https://github.com/sovereignbase/cryptosuite)**
 - **[hardware-bound](https://github.com/sovereignbase/hardware-bound)**
+- **[cryptographic-continuity](https://github.com/sovereignbase/cryptographic-continuity)**
 - **[bytecodec](https://github.com/sovereignbase/bytecodec)**
 - **[urn-anbs](https://github.com/sovereignbase/urn-anbs)**
 
