@@ -67,6 +67,7 @@ The current work focuses on small, runtime-agnostic JS/TS packages and implement
 - **[Convergent Replicated Text](https://github.com/sovereignbase/convergent-replicated-text)**
 - **[Convergent Replicated Struct](https://github.com/sovereignbase/convergent-replicated-struct)**
 - **[Convergent Replicated Resource](https://github.com/sovereignbase/convergent-replicated-resource)**
+- **[Frontier Store](https://github.com/sovereignbase/frontier-store)**
 - **[Schema CRDT](https://github.com/sovereignbase/schema-crdt)**
 
 These form the replicated state layer for portable, convergent, application-usable resources.
