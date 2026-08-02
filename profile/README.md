@@ -1,4 +1,4 @@
-![Sovereignbase Banner](https://img.shields.io/badge/Sovereignbase-your--personal%20backend%20-000000?style=for-the-badge)
+![Sovereignbase Banner](https://img.shields.io/badge/Sovereignbase-your%20personal%20backend%20-000000?style=for-the-badge)
 
 **Sovereignbase lets developers build normal web applications without becoming responsible for owning, operating, or controlling their users’ data backend.**
 
