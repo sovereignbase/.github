@@ -1,3 +1,3 @@
 # Contributing to Sovereignbase
 
-Contact: [ hello@sovereignbase.dev](mailto:hello@sovereignbase.dev)
+Contact: [ jori@sovereignbase.dev](mailto:jori@sovereignbase.dev)
